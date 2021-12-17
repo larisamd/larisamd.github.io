@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<title>Chords and scales</title>
+
+<style type= "text/css">
+body{
+font-family: Arial;
+background-color:
+rgb(185,179,175);}
+h1 {
+color: #b5651d;
+}
+p{ color #665544;}
+</style>
+
+
+<body>
+<center>
+<figure>
+ <img src= "images/chord.jpg" width="600" height="500">
+</figure>
+
+<h1> Chords </h1>
+
+<p> Chords are the building blocks of music.They can be found through various genres of music</p>
+<p> and being aware of how they work will help improve both for theory and in practice.</p>
+<p>Chords are simply playing multiple notes at once, so more than one key is pushed at the same time.</p>
+<p>There are nine types, but only one type will be mentioned here, called major chords. Major chords </p>
+<p> are known for sounding "bright" and "happy" as opposed to minor chords that are known to sound </p>
+<p>"gloomy" and "sad". Chords are determined by scales, which is written about below. However, </p>
+<p> it will not be mentioned here how chords are derived from scales, but only show the major chords 
+and their notes.</p>
+
+<table> 
+<tr>
+<th></th>
+<th scope=
+"col">Notes</th>
+<th scope=
+"col">Picture</th>
+</tr>
+<tr>
+<th scope=
+"row">C major:</th>
+<td>C D E</td>
+<td><figure>
+ <img src= "images/cs1.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">D major</th>
+<td>D F# A</td>
+<td><figure>
+ <img src= "images/cs2.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">E major</th>
+<td>E G# B</td>
+<td><figure>
+ <img src= "images/cs3.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">F major</th>
+<td>F A C</td>
+<td><figure>
+ <img src= "images/cs4.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">G major</th>
+<td>G B D</td>
+<td><figure>
+ <img src= "images/cs5.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">A major</th>
+<td>A C# E</td>
+<td><figure>
+ <img src= "images/cs6.jpg" width="70" height="50">
+</figure></td>
+</tr>
+<tr>
+<th scope=
+"row">B major</th>
+<td>B D# F#</td>
+<td><figure>
+ <img src= "images/cs7.jpg" width="70" height="50">
+</figure></td>
+</tr>
+</table>
+
+<p>Scales are a collection of related notes. They are played one note at a time in the order </p>
+<p> given in the table below. Like chords, they are one of </p>
+<p> the significant building blocks of music, which builds melodies and harmonies.Chords are </p>
+<p> derived from scales. Again, just like chords, there are many types of scales, but the major </p>
+<p>scales will only be mentioned on the table below.</p>
+
+<table> 
+<tr>
+<th></th>
+<th scope=
+"col">Notes</th>
+</tr>
+<tr>
+<th scope=
+"row">C major:</th>
+<td>C-D-E-F-G-A-B</td>
+</tr>
+<tr>
+<th scope=
+"row">D major:</th>
+<td>D-E-F#-G-A-B-C#-D</td>
+</tr>
+<tr>
+<th scope=
+"row">E major:</th>
+<td>E-F#-G#-A-B-C#-D#-E</td>
+</tr>
+<tr>
+<th scope=
+"row">F major:</th>
+<td>F-G-A-Bb-C-D-E-F</td>
+</tr>
+<tr>
+<th scope=
+"row">G major:</th>
+<td>G-A-B-C-D-E-F#-G</td>
+</tr>
+<tr>
+<th scope=
+"row">A major:</th>
+<td>A-B-C#-D-E-F#-G#-A</td>
+</tr>
+<tr>
+<th scope=
+"row">B major:</th>
+<td>B-C#-D#-E-F#-G#-A#-B</td>
+</tr>
+</table>
+
+<p><a href="withcss.html">Back to Home</a></p>
+</body>
+</center>
+</html>

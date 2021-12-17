@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<title> Introduction</title>
+
+<style type= "text/css">
+body{
+font-family: Arial;
+background-color:
+rgb(185,179,175);}
+h1 {
+color: #b5651d;
+}
+p{ color #665544;}
+</style>
+
+<center>
+<body>
+
+<video width="1100" height="300" controls autoplay>
+ <source src= "images/pianovideo.mp4" type="video/mp4">
+</video>
+
+<h1> Why start with the piano?</h1>
+
+<p> You may be questioning why consider starting with a piano, when there are many</p>
+<p> other instruments to choose from. The main reason for this is because learning</p>
+<p> the piano enables you to gain valuable transferrable skills that can be used </p>
+<p> for playing nearly any other instrument. The piano is considered to be a sort of </p>
+<p> foundation of sorts within the music industry. </p>
+
+<h1> Buying the right piano </h1>
+
+<p> When looking to buy your piano, there are many factors to be considered. It isn't </p>
+<p> simply about the appearance and cost, but the feel of it. Choose one that you </p>
+<p> feel comfortable using, such as feeling for how hard it is to press down a note</p>
+<p>and whether pressing it with more force makes a difference in the volume.</p>
+
+<h1> Technique</h1>
+
+<p> Playing the piano correctly isn't simply just reading off the sheet music, things </p>
+<p> such as your posture and your expressions are also important. It is necessary to </p>
+<p> adopt a good seating posture as doing it wrong can lead to back pains and irritation</p>
+<p> to your shoulder and neck.An improper hand technique also will have negative affects </p>
+<p> in the long term, so it would be best if the correct practices are implemented. </p>
+
+<p><a href="sm.html">Next page-Getting started with sheet music</a></p>
+<p><a href="withcss.html">Back to Home</a></p>
+</body>
+</center>
+</html>

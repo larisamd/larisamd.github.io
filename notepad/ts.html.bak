@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<title>Identifying notes</title>
+
+<style type= "text/css">
+body{
+font-family: Arial;
+background-color:
+rgb(192, 192, 192);}
+h1 {
+color: #b5651d;
+}
+p{ color #665544;}
+</style>
+
+<body>
+<center>
+<figure>
+ <img src= "images/time.png" width="550" height="300"/>
+</figure>
+
+<h1>The left hand </h1>
+<figure>
+ <img src="images/ts1.jpg" width="300" height="200">
+</figure>
+
+<p> In this image, it is demonstrated how the left hand can be used to play the middle</p>
+<p> C note. It is to be done with the thumb strictly for now. Another new concept seen</p>
+<p> here are the two symbols on the left which looks like an 'and' and a 'comma' sign. </p>
+<p> The symbol that resembles the and sign is called a treble clef and is meant to signify</p>
+<p> that anything that is played on those five lines must be on the right hand and the </p>
+<p>sybol that resembles a comma is called a bass clef and the five lines containing the </p>
+<p> bass clef is to be played with the left hand.</p>
+
+<figure>
+ <img src= "images/ts2.jpg" width="350" height="200">
+</figure>
+
+<p>This second image demonstrates both left and right hand side. As the right hand </p>
+<p> progresses upwards, the left hand (bass clef) moves backwards. </p>
+
+<h1>Flats and sharps</h1>
+
+<figure>
+ <img src= "images/ts3.jpg" width="350" height="200">
+</figure>
+
+<figure>
+ <img src= "images/ts4.jpg" alt="notice how F and B do not have sharps. This is 
+because F and B do not have a black key on their right" width="350" height="200">
+</figure>
+
+<p> In the first image, some notes appear to have what looks like a hashtag next to them.</p>
+<p>This hashtag is what's known as a sharp, which means for instance, if we look at </p>
+<p> C# this would mean that the black note on the right of the C key is to be played.</p>
+<p>The same principle is applied for D# F# G# and A# which is that the black key on the right</p>
+<p> of these notes is to be played.</p>
+
+<figure>
+<img src= "images/ts5.jpg" width="350" height="200">
+</figure>
+
+<p> Just like the sharp concept, we have flats ♭ which, instead of being the black key to the </p>
+<p>right is the black key to the left. Notice again how there is no C♭ or F♭ as there is no</p>
+<p> black key to the left of C and F.</p>
+
+<p><a href="cs.html">Next page-Chords and Scales</a></p>
+<p><a href="withcss.html">Back to Home</a></p>
+
+</body>
+</center>
+</html>

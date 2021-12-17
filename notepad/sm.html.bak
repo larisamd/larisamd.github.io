@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<title>Sheet Music</title>
+
+<style type= "text/css">
+body{
+font-family: Arial;
+background-color:
+rgb(185,179,175);}
+h1 {
+color: #b5651d;
+}
+p{ color #665544;}
+</style>
+
+<body>
+<center>
+<figure>
+ <img src= "images/Picture2.jpg" width="800" height="500"/>
+</figure>
+
+<h1> Learning piano keys </h1>
+<figure>
+ <img src= "images/sm1.jpg" width="300" height="250"/>
+</figure>
+
+<p> To start off, we look at what the piano looks like. You will observe that there </p>
+<p> are black keys in groups of two's and three's, making it easier to know the name of</p>
+<p> a key. Throughout the piano, spot any two sets of black keys and see the white key on</p>
+<p> the left. This is called the 'C' note. After C comes D, then E all the way to G</p>
+<p> after which A and B follows. After B, it starts again at the C note(which is on </p>
+<p> the left of the two black keys again). This pattern continues to repeat until the </p>
+<p> last key.</p>
+
+<h1> Middle C </h1>
+<figure>
+ <img src= "images/sm2.jpg" width="300" height="100"/>
+</figure>
+
+<p> Find the C note in the middle of the piano. As mentioned before, look at the</p>
+<p> two black keys and see the white note to the left to get a C note, but this time</p>
+<p> instead of a C note on some random part of the piano, ensure that it is in the middle.</p>
+
+<h1> Reading Sheet music </h1>
+<figure>
+ <img src= "images/sm3.jpg" width="300" height="100"/>
+</figure>
+
+<p>This image shows how sheet music is to be played. If you found the Middle C earlier, </p>
+<p> the note labelled 'Middle C' is to be played with the thumb of the right hand. </p>
+<p> Your index finger should play the second note, which is the D note all the way to </p>
+<p> the pinky finger, which is the G note.</p>
+
+<p><a href="ts.html">Next page-Identifying notes</a></p>
+<p><a href="withcss.html">Back to Home</a></p>
+
+</body>
+</center>
+</html>
